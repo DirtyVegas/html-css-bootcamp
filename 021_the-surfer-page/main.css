@@ -1,0 +1,26 @@
+html {
+    background-color: dodgerblue;
+    font-family: "Carter One";
+    text-align: center;
+    background-image: url("assets/sumo-logo.png");
+    background-size: 190px;
+}
+
+body {
+    width: 60%;
+    margin: 0 auto;
+    background-color: #00C957;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 30px auto;
+    border-radius: 10%;
+    border: 10px ridge gold;
+}
+
+#primary {
+    color: #0266C8;
+    font-family: "Carter One";
+}
